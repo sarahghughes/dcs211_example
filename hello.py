@@ -4,6 +4,6 @@ def add(a,b):
 
 def main() -> None:
 	print("hello world")
-	add(a,b)
+	add(3,4)
 main()
 
