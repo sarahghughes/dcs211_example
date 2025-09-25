@@ -1,5 +1,5 @@
 def main() -> None:
-	print("hello")
+	print("hello world")
 
 main()
 
